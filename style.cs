@@ -1,0 +1,59 @@
+body {
+background-color: #0f172a;
+color:white;
+font-family: Arial;
+text-align: center;
+margin-top: 10px;
+}
+
+
+/* Main title */
+h1 {
+margin-top: 50px;
+font-size: 40px;
+}
+
+/* Section titles */
+h2{
+margin-top:50px;
+color: #38bdf8
+}
+
+
+/* Paragraphs */
+p{
+max-width:500px;
+margin:10px auto;
+}
+
+/* Skill List */
+ul {
+list-style: none;
+padding: 0;
+}
+
+/* Each Skill */
+li {
+background- color: #1e293b
+margin: 10px auto;
+padding: 10px;
+width: 200px;
+border-radius: 8px;
+}
+
+button {
+background-color: #38bdf8;
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+color: black;
+border- radius: 8px;
+margin- top:20px;
+cursor: pointer;
+transition: 0.3s;
+}
+
+button:hover {
+background-color: #0ea5e9;
+transform: scale(1.05);
+}
