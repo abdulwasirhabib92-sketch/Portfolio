@@ -30,7 +30,7 @@ margin:10px auto;
 }
 
 /* Skill List */
-ul {
+.ulist {
 list-style: none;
 padding: 0;
   text-align: center;
